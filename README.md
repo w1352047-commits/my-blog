@@ -35,4 +35,13 @@ I built it to learn:
 
 ## Status
 
-Learning project 🚀
+Completed first version 🚀
+
+Future improvements:
+- Add more blog posts
+- Improve UI design
+- Connect backend services
+
+## Preview
+
+![website screenshot](preview.png)
